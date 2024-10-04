@@ -55,7 +55,7 @@ h3 {
   visibility: inherit;
   font-size: 31px;
 }
-h3::before {
+h3:not(.parag):before {
   content: "";
   height: 2px;
   width: 100%;

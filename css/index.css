@@ -87,6 +87,10 @@ img {
   background: rgba(0, 0, 0, 0.7)url("../images/products.webp");
   background-position: top;
 }
+.caro-img-4{
+  background: rgba(0, 0, 0, 0.7)url("../images/caro4.jpg");
+  background-position: bottom;
+}
 .carousel-caption{
   bottom: 40%!important;
 }
